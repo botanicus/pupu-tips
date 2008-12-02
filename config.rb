@@ -1,8 +1,8 @@
 # dependencies of the pupu
-#dependencies :mootools
+dependency :mootools, :more => true
 
 # javascripts for loading
-javascripts "tips", :in => "lib"
+stylesheet "tips"
 
 # parameters of plugin
 # it will be blank in most cases

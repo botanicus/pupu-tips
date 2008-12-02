@@ -4,6 +4,8 @@ Merb_pupu is a plugin system for merb's public stuff like mootools plugins, icon
 
 h1. About tips
 
+Tips are
+
 h1. Usage
 
 h2. Layout
@@ -15,8 +17,4 @@ plugin :tips
 
 h2. Initializers
 
-<pre>
-window.addEvent("domready", function() {
-  // do the init stuff
-})
-</pre>
+Edit the public/javascripts/initializers/tips.js

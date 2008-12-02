@@ -1,0 +1,30 @@
+/* http://davidwalsh.name/mootools-12-tooltips-customize */
+
+.tip {
+	width: 295px;
+	font-family: tahoma, arial;
+	background: url(/pupu/tips/images/tip-text.png) left top repeat-y;
+}
+
+.tip-top {
+	background: url(/pupu/tips/images/tip-top.png) top left no-repeat;
+	height: 26px;
+	width: 295px;
+}
+
+.tip-title {
+	color: #e95e25;
+	font-weight: bold;
+	margin: 0 30px 0 50px;
+}
+
+.tip-text {
+	color: #000;
+	padding: 10px 30px 20px 50px;
+}
+
+.tip-bottom {
+	background: url(/pupu/tips/images/tip-bottom.png) left bottom no-repeat;
+	width: 295px;
+	height: 81px;
+}
